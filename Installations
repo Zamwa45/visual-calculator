@@ -1,0 +1,4 @@
+#Installiation
+
+pip install opencv-python cvzone
+python hand_calculator.py
